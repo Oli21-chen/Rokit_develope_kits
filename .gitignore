@@ -1,0 +1,15 @@
+# Python
+.venv/
+**/__pycache__/
+*.pyc
+
+# Android / Gradle
+.gradle/
+**/.gradle/
+**/local.properties
+**/.kotlin/
+**/build/
+
+# OS
+.DS_Store
+Thumbs.db
